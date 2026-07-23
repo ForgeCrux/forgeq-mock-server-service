@@ -23,7 +23,7 @@ import org.slf4j.LoggerFactory;
 import com.probestack.forgestudio.design.service.MockServersService;
 import com.probestack.forgestudio.design.validation.GeneratedRequestValidator;
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T10:25:40.019199831Z[GMT]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T11:06:32.467428401Z[GMT]")
 @Controller
 @RequestMapping("${openapi.forgeQMockServerService.base-path:}")
 public class MockServersApiController implements MockServersApi {

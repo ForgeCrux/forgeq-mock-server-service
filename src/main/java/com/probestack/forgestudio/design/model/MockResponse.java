@@ -20,7 +20,7 @@ import jakarta.annotation.Generated;
 /**
  * MockResponse
  */
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T10:25:40.019199831Z[GMT]")public class MockResponse {
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T11:06:32.467428401Z[GMT]")public class MockResponse {
 
   private UUID id;
 

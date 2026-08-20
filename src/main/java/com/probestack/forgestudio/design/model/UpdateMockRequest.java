@@ -17,7 +17,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 /**
  * UpdateMockRequest
  */
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T10:25:40.019199831Z[GMT]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2026-07-23T11:06:32.467428401Z[GMT]")
 @Document(collection = "forgeq_mock_server_service_mock_servers")
 public class UpdateMockRequest {
 
